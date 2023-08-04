@@ -1,5 +1,4 @@
 import {  } from 'react-router-dom'
-import './Header.css'
 import * as Chakra from '@chakra-ui/react'
 
 export const Header = ()=>{
